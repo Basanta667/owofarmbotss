@@ -1,0 +1,94 @@
+our ak sorry help bala tum malu ha kya kam kara ga
+
+
+or ak cmd server dana ka tum name choice karo husa ho like (yourchoicename) (user) (memory) (disk) (cpu) asa acha Minecraft server dana ka
+
+
+
+or ak status monitor cmd ma ak chg add kar na ho ha node load 10.50% asa ok
+
+
+
+our ak jet na v cmd / ma ! ma . ma ? our space ma v hey kam kara like /create  (user) (memory) (disk) (cpu)  like asa v kam kara !create (user) (memory) (disk) (cpu)  asa matlb / jasa kam ! hey ma v kam asa a
+
+
+or ak sab cmd use kar na kela ak role need ho ga easy to .env ma dal link kar da na like ROLE_ID=ROLEID LA GA 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our ak sara chg ka easy use da na like .env 
+
+suspendmsg true false
+ 
+kuch chg need ho ga add kar link v kar da hey cha kena hi tek clear d 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our hey v add kar na .env bio like
+botbio= i am new bot
+
+show bot profile 
+ i am new bot
+
+like this samaj a ha ?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+our watching deka ho bot profile ma like 
+
+profile
+bio 
+
+Watching 
+
+  i am new bot 
+
+
+like this our easy kar da .env ma like
+
+watching=true false
+watchingmsg=   i am new bot 
+
+
+like this samaj aha ha ?
